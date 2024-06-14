@@ -3,11 +3,11 @@ layout: post
 title:  "Handbook of AI in Investments - Chapter 1"
 ---
 
-#### Original Text: 
+### Original Text: 
 [Handbook of AI and Big Data Applications in Investments - Chapter 1](https://rpc.cfainstitute.org/en/research/foundation/2023/ai-and-big-data-in-investments-handbook)
 
+### Below is a summary of Chapter 1, On Machine Learning Applications in Investments
 
-#### Below is a summary of Chapter 1, On Machine Learning Applications in Investments
 
 
 ##### Introduction
@@ -41,15 +41,15 @@ Machine Learning (ML) has gained popularity across various domains, including fi
 ML presents powerful tools for investors, offering enhanced predictive capabilities and improved performance. However, applying ML in finance requires careful consideration of the domain's unique challenges and limitations. With the right approach, ML can drive significant innovation and improvements in investment strategies.
 
 #### Figures to Reference in the PDF
-Exhibit 1: Illustration of the Interaction Effect between Accounting Red Flags and Equity Returns (Page 4)
-Exhibit 2: Illustration of the Nonlinear Relationship between a CDS and Equity Returns (Page 5)
-Exhibit 3: SHAP Value between Input Features and ML Output Predicting Financial Distress (Page 8)
-Exhibit 4: Linear and Nonlinear Decomposition of an ML Algorithm’s Output to Input Feature (Page 10)
-Exhibit 5: Example of the Pairwise-Interaction Effect (Page 11)
-Exhibit 6: Example ML Portfolio Return Attribution (Page 12)
-Exhibit 7: Out-of-Sample Performance of Benchmark OLS Portfolio vs. Various ML Portfolios, Value Weighting (Page 13)
-Exhibit 8: Market Return vs. Return of a Portfolio Consisting of Likely Distressed Stocks (Page 15)
-Exhibit 9: Sector Composition of the ML-Predicted Likely Distressed Stocks (Page 15)
-Exhibit 10: Prediction Accuracy Results from Cao and You (2021) (Page 17)
-Exhibit 11: Embedded Chinese Words from A-Share Investor Blogs Projected onto a 3-D Space (Page 18)
-Exhibit 12: Chinese Word Embedding Still Preserves Vector Arithmetic (Page 18)
+Exhibit 1: Illustration of the Interaction Effect between Accounting Red Flags and Equity Returns (Page 4) <br>
+Exhibit 2: Illustration of the Nonlinear Relationship between a CDS and Equity Returns (Page 5) <br>
+Exhibit 3: SHAP Value between Input Features and ML Output Predicting Financial Distress (Page 8)<br>
+Exhibit 4: Linear and Nonlinear Decomposition of an ML Algorithm’s Output to Input Feature (Page 10)<br>
+Exhibit 5: Example of the Pairwise-Interaction Effect (Page 11)<br>
+Exhibit 6: Example ML Portfolio Return Attribution (Page 12)<br>
+Exhibit 7: Out-of-Sample Performance of Benchmark OLS Portfolio vs. Various ML Portfolios, Value Weighting (Page 13)<br>
+Exhibit 8: Market Return vs. Return of a Portfolio Consisting of Likely Distressed Stocks (Page 15)<br>
+Exhibit 9: Sector Composition of the ML-Predicted Likely Distressed Stocks (Page 15)<br>
+Exhibit 10: Prediction Accuracy Results from Cao and You (2021) (Page 17)<br>
+Exhibit 11: Embedded Chinese Words from A-Share Investor Blogs Projected onto a 3-D Space (Page 18)<br>
+Exhibit 12: Chinese Word Embedding Still Preserves Vector Arithmetic (Page 18)<br>
