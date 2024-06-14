@@ -14,14 +14,8 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
-      <aside class="sidebar">
-        {% include sidebar.html %}
-      </aside>
-
-      <div class="content">
-        {{ content }}
-        {% include after-content.html %}
-      </div>
+      {{ content }}
+      {% include after-content.html %}
     </div>
 
     {% if site.search == true %}
