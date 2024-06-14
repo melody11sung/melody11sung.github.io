@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "Handbook of AI in Investments - Chapter 1"
+categories: [ML4T]
+author_profile: true
+sidebar_main: true
 ---
 
 ### Original Text: 
