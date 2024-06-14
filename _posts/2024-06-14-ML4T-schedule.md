@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "ML4T Schedule"
+categories: [ML4T]
 ---
 
 |Week|Lessons|Readings/Videos|Assignment|
