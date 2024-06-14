@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "ML4T Schedule"
-author_profile: true
-sidebar:
-  nav: "main"
 ---
 
 |Week|Lessons|Readings/Videos|Assignment|
