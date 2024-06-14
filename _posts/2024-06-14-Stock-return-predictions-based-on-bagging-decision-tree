@@ -1,10 +1,11 @@
 ---
-layout:post
-title: "Stock Return Predictions Based on Bagging-Decision Tree]
+layout: post
+title: "Stock Return Predictions Based on Bagging-Decision Tree"
 categories: [ML4T]
 author_profile: true
 sidebar_main: true
 ---
+
 
 ##### The original article by H.Wang, Y.Jiang, and H.Wang
 [Stock Return Prediction Based on Bagging-Decision Tree](https://ieeexplore.ieee.org/document/5408165)
