@@ -6,9 +6,9 @@ author_profile: true
 sidebar_main: true
 ---
 
-Chapter 2: "So You Want to Be a Hedge Fund Manager"
+### Chapter 2: "So You Want to Be a Hedge Fund Manager"
   
-  1. Understanding Hedge Funds
+###### 1. Understanding Hedge Funds
   
 1) Definition and Role:
 - Hedge funds are private pools of capital from accredited investors.
@@ -18,7 +18,7 @@ Chapter 2: "So You Want to Be a Hedge Fund Manager"
 - Their economic function is to use capital efficiently by moving it from low-return to high-return assets.
 
   
-  2. Types of Investors and Regulation
+###### 2. Types of Investors and Regulation
 
 1) Accredited Investors:
 - Hedge funds accept money from accredited investors, who are wealthy individuals or institutions presumed to be sophisticated enough to handle the risks involved.
@@ -26,8 +26,8 @@ Chapter 2: "So You Want to Be a Hedge Fund Manager"
 - Unlike mutual funds, hedge funds are not subject to strict regulations due to their investor base.
 - They are prohibited from advertising and rely heavily on secrecy to maintain a competitive edge.
 
-  
-  3. Hedge Fund Strategies
+
+###### 3. Hedge Fund Strategies
 
 1) Equity Strategies:
 - Focus on stock selection, including long/short strategies.
@@ -43,13 +43,13 @@ Chapter 2: "So You Want to Be a Hedge Fund Manager"
 - Trades in a wide range of markets and instruments.
 
 
-  4. Hedge Fund Fees
+###### 4. Hedge Fund Fees
 
 - Commonly known as “2 and 20” – 2% of assets under management (AUM) and 20% of profits.
 - Some funds charge even higher performance fees, especially those with superior reputations.
 
 
-  5. Performance and Risks
+###### 5. Performance and Risks
 
 1) Return Calculation:
 - Returns are measured by comparing the value of holdings at the beginning and end of a time period.
@@ -61,7 +61,7 @@ Chapter 2: "So You Want to Be a Hedge Fund Manager"
 - The Sharpe Ratio is used to assess the risk-adjusted return of a portfolio, calculated as (return - risk-free rate) / standard deviation of the portfolio.
 
 
-  6. Hedge Fund Evaluation
+###### 6. Hedge Fund Evaluation
 
 1) Absolute vs. Relative Return:
 - Absolute return: The actual return of the fund without comparison to any benchmark.
@@ -69,7 +69,7 @@ Chapter 2: "So You Want to Be a Hedge Fund Manager"
 - Alpha: Measures a fund’s performance relative to a benchmark, indicating investing skill.
 
 
-  7. Market Making and Trading Mechanics
+###### 7. Market Making and Trading Mechanics
 
 1) Order Types:
 - Market Orders: Buy or sell at the current market price.
@@ -80,7 +80,7 @@ Chapter 2: "So You Want to Be a Hedge Fund Manager"
 - The bid-ask spread indicates the liquidity of the market.
 
   
-  8. Secrecy and Intellectual Property
+###### 8. Secrecy and Intellectual Property
 
 1) Secrecy:
 - Hedge funds keep their strategies secret to prevent competitors from copying them.
