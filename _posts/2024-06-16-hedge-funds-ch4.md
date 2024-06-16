@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Hedge Funds Really Do - Chapter 4"
+title:  "What Hedge Funds Really Do, Chapter 4"
 categories: [ML4T]
 author_profile: true
 sidebar_main: true
