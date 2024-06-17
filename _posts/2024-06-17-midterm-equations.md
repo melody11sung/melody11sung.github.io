@@ -14,7 +14,7 @@ sidebar_main: true
 * $DailyReturn_t = {Price_t \over Price_(t-1) } - 1$
 
 * Cumulative Returns: the total return of a stock over a large period of time starting from a specific date t0.
-* $Cumulative Return_t = {{Price_t \over Price_t0 } - 1 }$
+* $Cumulative Return_t = {{Price_t \over Price_(t0) } - 1 }$
 
 * Rolling Mean: the average price of a stock over a specified window of time.
 
@@ -33,13 +33,13 @@ sidebar_main: true
 
 * if different sampling frequencies adjustment:
 * $S = {k * E[R_p - R_f] \over std[R_p = R_f] }$
-* where $k = \sqrt{Number_of_periods_per_year}$
+* where $k = \sqrt{Number of periods per year}$
 
 
 ##### 3. Capital Asset Pricing Model (CAPM)
 
 * A model used to determine the expected return of an asset based on its risk relative to the market
-* $E(R_i) = { R_f + \beta{(E(R_m) - R_f)}$
+* $E(R_i) = {R_f + \beta{(E(R_m) - R_f)}}$
 * where E(R_i) = expected return of the asset,
 * R_f = risk-free rate,
 * beta = beta of the asset,
