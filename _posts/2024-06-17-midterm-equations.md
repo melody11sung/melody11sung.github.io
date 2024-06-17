@@ -6,9 +6,9 @@ author_profile: true
 sidebar_main: true
 ---
 
-### Trading Equations for ML4T
+# Trading Equations for ML4T
   
-##### 1. Global Statistics
+### 1. Global Statistics
 
 * Daily Returns: The percentage change in the portfolio's value from one day to the next.
 * $DailyReturn_t = {Price_t \over Price_(t-1) } - 1$
@@ -23,7 +23,7 @@ sidebar_main: true
 * $Lower band = {Rolling MEan - 2 * Rolling Std Dev }$
 
 
-##### 2. Sharpe Ratio
+### 2. Sharpe Ratio
 
 * A measure of risk-adjusted return
 * $S = {E[R_p - R_f] \over std[R_p = R_f]}$
@@ -36,7 +36,7 @@ sidebar_main: true
 * where $k = \sqrt{Number of periods per year}$
 
 
-##### 3. Capital Asset Pricing Model (CAPM)
+### 3. Capital Asset Pricing Model (CAPM)
 
 * A model used to determine the expected return of an asset based on its risk relative to the market
 * $E(R_i) = {R_f + \beta{(E(R_m) - R_f)}}$
