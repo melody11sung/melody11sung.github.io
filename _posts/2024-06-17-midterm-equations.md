@@ -11,16 +11,16 @@ sidebar_main: true
 ##### 1. Global Statistics
 
 * Daily Returns: The percentage change in the portfolio's value from one day to the next.
-* $$ Daily Return_t = Price_t \over Price_(t-1) - 1 $$
+* $$ Daily Return_t = {Price_t \over Price_(t-1) - 1 }$$
 
 * Cumulative Returns: the total return of a stock over a large period of time starting from a specific date t0.
-* $$ Cumulative Return_t = Price_t \over Price_t0 - 1 $$
+* $$ Cumulative Return_t = {Price_t \over Price_t0 - 1 }$$
 
 * Rolling Mean: the average price of a stock over a specified window of time.
 
 * Bollinger Bands: measures a stock's volatility using the rolling standard deviation
-* $$ Upper band = Rolling Mean + 2 * Rolling Std Dev $$
-* $$ Lower band = Rolling MEan - 2 * Rolling Std Dev $$
+* $$ Upper band = {Rolling Mean + 2 * Rolling Std Dev }$$
+* $$ Lower band = {Rolling MEan - 2 * Rolling Std Dev }$$
 
 
 ##### 2. Sharpe Ratio
