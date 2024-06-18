@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Hedge Funds Really Do, Chapter 7"
+title:  "What Hedge Funds Really Do, Chapter 7, CAPM"
 categories: [ML4T]
 author_profile: true
 sidebar_main: true
