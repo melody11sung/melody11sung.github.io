@@ -9,10 +9,12 @@ sidebar_main: true
 # "What Hedge Funds Really Do" by Philip J. Romero and Tucker Balch
 ## Chapter 7: Framework for Investing: The Capital Asset Pricing Model (CAPM)   
 
+
 ### CAPM   
 * Developed by Merton Miller, Franco Modigliani, and William Sharpe, who received the Nobel Prize in Economics in 1990.
 * CAPM provides a rigorous framework for appraising and designing portfolios.
 * The model is influential in both academic finance and practical investment management.   
+
 
 
 ### Basic Premise of CAPM   
@@ -21,6 +23,7 @@ sidebar_main: true
 
 * According to CAPM, buying a broad market index (e.g. S&P 500) is a strategy likely to yield superior results compareed to most other strategies.
 * Hedge funds challenge this view by seeking to outperform market indicies through active management.   
+
 
 
 ### Core components of CAPM   
@@ -35,6 +38,7 @@ sidebar_main: true
 * Beta greater than 1 indicates higher volatility than the market,
 * and beta less than 1 indicates lower volatility than the market.   
 
+
  
 ### Two stock math   
 
@@ -45,6 +49,7 @@ sidebar_main: true
 ![Screenshot 2024-06-18 at 3 38 35 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/69386b7d-eec0-40f8-a23e-6938b7eba82e)
 
 * this approach may loose money even with accurate predictions of alpha and beta.   
+
 
 
 2. For CAPM, to remove the market affect/risk ($r_m$), how could we make $\beta_p$ = 0?   
@@ -65,12 +70,14 @@ sidebar_main: true
 * we could build a portfolio that is less exposed to market risk.   
 
 
+
 ### Systematic vs. Unsystematic risk   
 * Systematic risk is risk interent to the entire market or market segment.
 * it cannot be diversified away.
 
 * Unsystematic risk is specific to a particular company or industry.
 * it can be reduced through diversification.   
+
 
 
 ### Security Markeet Line (SML)   
@@ -82,9 +89,11 @@ sidebar_main: true
 * and below the SML are overvalued (offering lower return).   
 
 
+
 ### Practical application   
 * CAPM helps in constructing portfolios that balance expected return with risk.
 * It provides a basis for comparing the attractiveness of different investments.   
+
 
 
 ### Limitations   
