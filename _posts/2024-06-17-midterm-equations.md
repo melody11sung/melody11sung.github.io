@@ -47,9 +47,15 @@ sidebar_main: true
 
 
 * A model used to determine the expected return of an asset based on its risk relative to the market
-  * $E(R_i) = {R_f + \beta{(E(R_m) - R_f)}}$
-  * where E(R_i) = expected return of the asset,
-  * R_f = risk-free rate,
-  * beta = beta of the asset,
-  * E(R_m) = expected market return,
-  * (E(R_m) - R_f) = market risk premium.
+  * $r_i(t) = {\beta_i * r_m(t) + \alpha_i(t)}$
+  * where $r_i(t)$ = expected return of the asset,
+  * $r_m(t)$ = expected return of the market.
+ 
+* CAPM says two things about alpha;
+  * alpha is a random value
+  * on average, it should be 0.
+  * thus, the only way to beat the market is to choose the right beta - high beta in up markets, and low beta in down markets.
+  * however, Efficient Markets Hypothesis(EMH) says that you cannot predict the market.
+  * In summary, CAPM + EMH says we cannot bet the market.
+    
+* In contrary, active managers believe that they can predict alpha.
