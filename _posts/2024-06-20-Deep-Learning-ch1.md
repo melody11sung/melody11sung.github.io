@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep Learning"
+title:  "Deep Learning Ch1. Introduction"
 categories: [ML4T]
 author_profile: true
 sidebar_main: true
