@@ -20,6 +20,12 @@ sidebar_main: true
 
 ![Screenshot 2024-06-20 at 10 11 41 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/2a95c4a4-e0fa-4fd4-ae3e-cdb271f51de3)
 
+
+- Sum and Product Rules
+  
+![Screenshot 2024-06-20 at 10 18 29 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/77f83a1f-21e8-45c2-bdf3-a4a3a706568d)
+
+
 - A medical screening example
   - False Positives: a test result indicating a condition when it is not present (3% false positive rate for cancer when it was not cancer).
   - False Negative: a test result not indicating a condition when it is present (10% false negative rate for cancer when it was cancer).
@@ -37,19 +43,18 @@ sidebar_main: true
       - It is because of the low (1%) prior probability (prior because it is available before observing the test result) of having cancer.
 
 
-- Sum and Product Rules
-![Screenshot 2024-06-20 at 10 18 29 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/77f83a1f-21e8-45c2-bdf3-a4a3a706568d)
-
-
 ### 2.2 Probability Densities
+
 ![Screenshot 2024-06-20 at 10 19 12 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/e1c1305b-9d78-4453-91ab-52435b10a17f)
 
      
 ### 2.3 Gaussian Distribution
+
 ![Screenshot 2024-06-20 at 10 19 35 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/f3175f0c-d4d0-48c2-a131-5ea9be636de1)
 
     
 ### 2.4 Expectations and Covariance
+
 ![Screenshot 2024-06-20 at 10 20 58 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/e4fe082d-9d3d-4541-b609-6fc71fd663eb)
 
 
