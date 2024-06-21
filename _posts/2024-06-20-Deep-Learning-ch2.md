@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deep Learning ch2. Probabilities"
+title:  "Deep Learning Ch2. Probabilities"
 categories: [ML4T]
 author_profile: true
 sidebar_main: true
@@ -19,8 +19,6 @@ sidebar_main: true
 ### 2.1 The Rules of Probability
 
 ![Screenshot 2024-06-20 at 10 11 41 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/2a95c4a4-e0fa-4fd4-ae3e-cdb271f51de3)
-
-![Screenshot 2024-06-20 at 10 21 41 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/d2c7eb33-d494-4200-b653-7391ca8a0e86)
 
 - A medical screening example
   - False Positives: a test result indicating a condition when it is not present (3% false positive rate for cancer when it was not cancer).
