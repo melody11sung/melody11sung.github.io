@@ -9,12 +9,12 @@ sidebar_main: true
 # Introduction to Statistcal Leearning with Applications in Python (2023) by Gareth James et al.
 ## Chapter 2.2 Assessing Model Accuracy
 
-## Introduction
+## 1. Introduction
 - Assising the accuracy of a statistical learning methods is crucial in both supervised and unsupervised learning.
 - This section focuses on methods for measuring the quality of fit for supervised learning, the bias-variance trade-off, and evaluating classification methods.
 <br>
 
-## Measuring the Quality of Fit
+## 2. Measuring the Quality of Fit
 
 ### Training and Testing
   - training data: used fo fit the model
@@ -55,7 +55,7 @@ sidebar_main: true
   3. average the results to get an overall measure of model accuracy.
    
 
-## The Bias-Variance Trade-Off
+## 3. The Bias-Variance Trade-Off
 
 ### Bias-Variance Decomposition
 - Bias: error due to the assumptions in the model.
@@ -72,7 +72,7 @@ sidebar_main: true
 - Complex Models: low bias, high variance
 
 
-## The Classification Setting
+## 4. The Classification Setting
 
 ### Confusion Matrix: 
 - composed of True Positives (TP), True Negatives (TN), False Positives (FP), False Negatives (FN).
