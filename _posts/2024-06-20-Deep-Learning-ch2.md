@@ -27,8 +27,14 @@ sidebar_main: true
   - Probability Calculation
     - Probability of testing positive: having test positive, regardless of having cancer.
       - p(T=1) = p(T=1 | C=0) / p(C=0) + p(T=1 | C=1) / p(C=1)
+        = 3/100 * 99/100 + 90/100 * 1/100 = 0.0387
+      - Thus, roughly 4% chance that the test comes out to be positive, even though there is a 1% chance having cancer.
     - Probability of having cancer given a positive test: when test was positive, probability of having cancer.
       - p(C=1 | T=1) = p(T=1 | C=1) X p(C=1) / p(T=1)
+        = 90/100 * 1/100 * 10000/387 = 0.23
+      - If the test was positive, there is a 23% probability that the person actually have cancer.
+      - In other words, even if the test was positive, there is 77% chance that the person do not have cancer.
+      - It is because of the low (1%) prior probability (prior because it is available before observing the test result) of having cancer.
 
 
 - Sum and Product Rules
