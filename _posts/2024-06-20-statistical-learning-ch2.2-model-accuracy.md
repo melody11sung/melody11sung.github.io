@@ -8,12 +8,14 @@ sidebar_main: true
 
 # Introduction to Statistcal Leearning with Applications in Python (2023) by Gareth James et al.
 ## Chapter 2.2 Assessing Model Accuracy
+<br><br><br>
 
 ## 1. Introduction
 - Assising the accuracy of a statistical learning methods is crucial in both supervised and unsupervised learning.
 - This section focuses on methods for measuring the quality of fit for supervised learning, the bias-variance trade-off, and evaluating classification methods.
 <br>
 
+<br><br><br>
 ## 2. Measuring the Quality of Fit
 
 ### Training and Testing
@@ -29,7 +31,7 @@ sidebar_main: true
   - Proportion of the variance in the dependent variable that is predictable from the independent variables.
   - $R^2$ close to 1 indicates a better fit.
   - ![Screenshot 2024-06-20 at 11 23 50 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/6c3e8daf-80f0-4062-b5c6-20c7b6ed34ff)
-    
+
 ### Validdation Set Approach
 - procedure:
   1. split the data into a training set and validation set,
@@ -53,8 +55,9 @@ sidebar_main: true
   1. randomly sample the data with replacement to create multiple datasets.
   2. fit the model on each dataset and evaluate performance.
   3. average the results to get an overall measure of model accuracy.
-   
 
+   
+<br><br><br>
 ## 3. The Bias-Variance Trade-Off
 
 ### Bias-Variance Decomposition
@@ -66,12 +69,15 @@ sidebar_main: true
 - total error can be decomposed as,
 - $Total Prediction Error = Bias^2 + Variance + Irreduccible Error
 - bias-variance trade-off: increasing model complexity typically decreases bias, but increases variance, and vice versa.
+- The relative rate of change of bias and variance determines whether test MSE increases or decreases.
+- As we increase the flexibility of the model, the bias tends to initially decrease faster than the variance increases, resulting the expected test MSE decline at first. However, at some point increasing flexibility has little impact on the bias but starts to significantly increase the variance, making the test MSE increases.
  
 ### Model Complexity
 - Simple Models: high bias, low variance
 - Complex Models: low bias, high variance
 
 
+<br><br><br>
 ## 4. The Classification Setting
 
 ### Confusion Matrix: 
@@ -92,4 +98,21 @@ sidebar_main: true
 - Area under the curve (AUC): measures the overall performance of the classification model.
 
 ### Validation Techniques
-- same as those for regression models: validation set approach, cross-validation, and bootstrap.  
+- same as those for regression models: validation set approach, cross-validation, and bootstrap.
+
+
+<br><br><br>
+## 5. Classifications
+
+### Bayesian Classification
+- assigns each observation to the most likely class, given its predictor values.
+- bayes decision boundary: the boundary where the probability of classification changes from one class to another.
+- bayes error rate: the lowest possible test error rate for a classifier, achieved by the Bayes classifier.
+- ![Screenshot 2024-06-21 at 12 07 37 AM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/cd270a69-51de-473c-9017-dd6733f81ff3)
+
+### K-Nearest Neighbors (KNN)
+- assigns the class of the majority of the k-nearest neighbors.
+- Distance metric: usually Euclidean distance is used to identify the nearest neighbors.
+- Choice of K:
+  - Small K: more flexible, can lead to high variance and overfitting.
+  - Large K: less flexible, can lead to high bias and underfitting.
