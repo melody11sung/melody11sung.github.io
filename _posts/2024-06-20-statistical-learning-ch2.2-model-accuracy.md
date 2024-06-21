@@ -23,12 +23,12 @@ sidebar_main: true
 ### Key Metrics for Regression Models
   - Mean Squared Error (MSE): measures the average squared difference between observed and predicted values.
   - Lower MSE indicates a better fit.
-    ![Screenshot 2024-06-20 at 9 57 24 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/fbb7877f-3cb1-4c4c-acac-1ef1b39e13fe)
+  - ![Screenshot 2024-06-20 at 9 57 24 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/fbb7877f-3cb1-4c4c-acac-1ef1b39e13fe)
 
 ### R-Squared ($R^2$)
   - Proportion of the variance in the dependent variable that is predictable from the independent variables.
   - $R^2$ close to 1 indicates a better fit.
-  ![Screenshot 2024-06-20 at 11 23 50 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/6c3e8daf-80f0-4062-b5c6-20c7b6ed34ff)
+  - ![Screenshot 2024-06-20 at 11 23 50 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/6c3e8daf-80f0-4062-b5c6-20c7b6ed34ff)
     
 ### Validdation Set Approach
 - procedure:
