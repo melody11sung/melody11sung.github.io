@@ -15,11 +15,11 @@ sidebar_main: true
 - Objective: predict the response Y from the predictor X using a linear function.
 
 ### Model Representation
-- $Y = \beta_0 + \beta_1X + \e$
+- $Y = \beta_0 + \beta_1X + e$
 - where Y is the response variable,
 - $\beta_0$ is the intercept,
 - $\beta_1$ is the slope,
-- $\e$ is the error term, assumed to be normally distributed with mean 0 and the constanct variance $\sigma^2$.
+- e is the error term, assumed to be normally distributed with mean 0 and the constanct variance $\sigma^2$.
 
 ### Parameter Estimation
 - Least Squares Method: used to estimate beta (weights, coefficients).
