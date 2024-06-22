@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lecture 02-06, Technical Analysis"
+title: "Lecture 02-06, Technical Analysis"
 categories: [ML4T]
 author_profile: true
 sidebar_main: true
@@ -19,7 +19,7 @@ sidebar_main: true
 
 ##2. Indicators - Momentum
 - the relative price change over a certain number of days.
-  
+
 ![Screenshot 2024-06-18 at 5 47 32 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/26820fdc-0ba9-4d23-91b1-852e35491a8c)
 
 - $m_t = {p_t \over p_(t-n)} - 1$
