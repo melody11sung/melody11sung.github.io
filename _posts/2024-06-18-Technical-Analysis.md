@@ -1,23 +1,24 @@
 ---
 layout: post
-title: "Lecture 02-06, Technical Analysis"
+title: "Technical Analysis"
 categories: [ML4T]
 author_profile: true
 sidebar_main: true
 ---
 
 
-# Technical Analysis
+## Technical Analysis
 
-##1. Characteristics
+## 1. Characteristics
 
-- looks only at histofical * price and volumn *, unlike fundamental analysis which uses factors like earnings, dividends, cash flow, book value, etc.
+- looks only at historical * price and volumn *, unlike fundamental analysis which uses factors like earnings, dividends, cash flow, book value, etc.
 - compute statistics called indicators
 - indicators are heuristics
-- not consider company value
+- do not consider company value
+- works better over the short period of time than over the long term.
 
 
-##2. Indicators - Momentum
+## 2. Indicators - Momentum
 - the relative price change over a certain number of days.
 
 ![Screenshot 2024-06-18 at 5 47 32 PM](https://github.com/melody11sung/melody11sung.github.io/assets/125707768/26820fdc-0ba9-4d23-91b1-852e35491a8c)
