@@ -19,8 +19,7 @@ sidebar_main: true
 |9| 03-07  | [Navigation Project Strategies for Q-Learner Trader](https://www.youtube.com/watch?v=K8xRATOpsqw) <br> [Q-Learning and Robot Navigation](https://www.youtube.com/watch?v=X9UhB953TDA) <br> Machine Learning – Chapter 13 <br> Handbook of AI and Big Data Applications in Investments - Chapters 10 and 11 <br> Foundations of Deep Reinforcement Learning – Chapter 1* <br> Probabilistic Machine Learning 2 – Chapter 35*  | Project 7 |
 |10| - | Options Trading - Interview with Tammer Kamel (Ed Lessons) <br> Introduction to Statistical Learning – Deep Learning Chapter 10 <br> [Reading: Options and Futures: A Tutorial - Chapter 4*](https://www.cfainstitute.org/-/media/documents/book/rf-publication/1992/rf-v1992-n5-4438-pdf.ashx) | Prooject 8 |
 |11| - | [Video: Keynote on Algorithmic Bias](https://conversations.cc.gatech.edu/)  | Exam 2 |
-|12| - | [Paper: Financial Times Series Forecasting using CNN and Transformer*](https://arxiv.org/abs/2304.04912) <br> 
-[Video: Applying Deep Reinforcement Learning to Trading with Dr. Tucker Balch](https://youtu.be/Pka0DC_P17k)  | End-of-Course |
+|12| - | [Paper: Financial Times Series Forecasting using CNN and Transformer*](https://arxiv.org/abs/2304.04912) <br> [Video: Applying Deep Reinforcement Learning to Trading with Dr. Tucker Balch](https://youtu.be/Pka0DC_P17k) | End-of-Course |
 
 (*) denotes optional or supplemental material
 
